@@ -1,0 +1,4 @@
+c:\users\syvd3\documents\visual studio 2010\Projects\Restservice\Restservice\bin\Restservice.dll
+c:\users\syvd3\documents\visual studio 2010\Projects\Restservice\Restservice\bin\Restservice.pdb
+c:\users\syvd3\documents\visual studio 2010\Projects\Restservice\Restservice\obj\Debug\Restservice.dll
+c:\users\syvd3\documents\visual studio 2010\Projects\Restservice\Restservice\obj\Debug\Restservice.pdb
