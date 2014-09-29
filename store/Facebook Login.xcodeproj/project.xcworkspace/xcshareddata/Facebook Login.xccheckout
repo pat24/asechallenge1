@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08C4912C-A877-494C-B670-B36E93B76D5C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Facebook Login</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0092d2c2-296c-aef5-1519-ce57b7db7bff++505</key>
+		<string>https://github.com/ArslanBilal/Facebook-Login/trunk</string>
+		<key>0543A66C018CA4AEBA843331A0DF2CA600A09D99</key>
+		<string>https://github.com/bilalarslan1993/Facebook-Login.git</string>
+		<key>A8A2243F-3D52-4B03-B651-96D8FB023917</key>
+		<string>https://github.com/bilalarslan1993/Facebook-Login.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Facebook Login.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0092d2c2-296c-aef5-1519-ce57b7db7bff++505</key>
+		<string>../..</string>
+		<key>0543A66C018CA4AEBA843331A0DF2CA600A09D99</key>
+		<string>../../../Facebook%20Login</string>
+		<key>A8A2243F-3D52-4B03-B651-96D8FB023917</key>
+		<string>../../../Facebook Login</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>0092d2c2-296c-aef5-1519-ce57b7db7bff++505</key>
+		<string>https://github.com/ArslanBilal/Facebook-Login</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ArslanBilal/Facebook-Login/trunk/Facebook%20Login.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0092d2c2-296c-aef5-1519-ce57b7db7bff++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A8A2243F-3D52-4B03-B651-96D8FB023917</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Facebook Login</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0543A66C018CA4AEBA843331A0DF2CA600A09D99</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Facebook%20Login</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0092d2c2-296c-aef5-1519-ce57b7db7bff++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>store</string>
+		</dict>
+	</array>
+</dict>
+</plist>
